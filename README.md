@@ -52,7 +52,7 @@
 - Responsive tasarım sayesinde tablet ve mobil cihazlarda tek sütun görünümü.
 - Hover efektleri ve hafif zoom ile interaktif bir deneyim sunar.
 
-## Kullanılan Teknolojiler
+## Teknolojiler
 - HTML5
 - CSS3
 - Responsive Tasarım (Media Queries)
