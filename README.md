@@ -1,6 +1,7 @@
 # Yemek Sitesi (Demo)
 - Bu proje, **HTML ve CSS** ile geliştirilmiş bir **yemek sitesi demo projesidir**. 
-- Site, kullanıcıların çeşitli yemekleri keşfetmesini ve görsel olarak deneyimlemesini amaçlar. **Butonlar ve fiyatlar demo amaçlıdır, gerçek sipariş alınmaz.**
+- Site, kullanıcıların çeşitli yemekleri keşfetmesini ve görsel olarak deneyimlemesini amaçlar.
+- Butonlar ve fiyatlar demo amaçlıdır, gerçek sipariş alınmaz.
 
 ## Site Yapısı ve İçeriği
 
